@@ -7,7 +7,7 @@ import ReactDOM from 'react-dom/client';
 
 // // 
 let age =19;
-let phone =9142003626;
+let phone =8114525282;
 const Root=ReactDOM.createRoot(document.getElementById('root'));
 const el=(
 <>
