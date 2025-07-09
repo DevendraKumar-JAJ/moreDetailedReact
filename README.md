@@ -21,7 +21,7 @@ A collection of React projects and demos showcasing various concepts and techniq
 * **JavaScript**: The programming language used for development.
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/your-username/react-demo.git`
+1. Clone the repository: `git clone https://github.com/DevendraKumar-JAJ/moreDetailedReact.git`
 2. Navigate to the project directory: `cd react-demo`
 3. Install dependencies: `npm install`
 4. Start the development server: `npx parcel index.html`
